@@ -24,7 +24,7 @@ I'm actively working on various projects to apply and enhance my skills. You can
 
 ## 📫 Let's Connect
 
-Feel free to reach out if you want to collaborate on a project, discuss tech, or just have a friendly chat! You can connect with me on [LinkedIn](www.linkedin.com/in/edgaras-aleliunas).
+Feel free to reach out if you want to collaborate on a project, discuss tech, or just have a friendly chat! You can connect with me on [LinkedIn](https://www.linkedin.com/in/edgaras-aleliunas).
 
 Thanks for stopping by! 😊
 
