@@ -16,12 +16,6 @@ I'm on a journey to become a well-rounded developer, and my current focus is on 
 
 I'm actively working on various projects to apply and enhance my skills. You can check out some of my projects on my GitHub repositories.
 
-## 🛠️ Tools
-
-- **IDE:** Visual Studio Code
-- **Version Control:** Git, GitHub
-- **Design:** Inkscape
-
 ## 📫 Let's Connect
 
 Feel free to reach out if you want to collaborate on a project, discuss tech, or just have a friendly chat! You can connect with me on [LinkedIn](https://www.linkedin.com/in/edgaras-aleliunas).
