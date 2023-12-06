@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Edgaras.
 
-I'm a passionate software developer currently enrolled in the Founders And Coders bootcamp. My focus is on honing my skills in JavaScript, HTML, CSS and more to build awesome web applications.
+I'm a software developer currently enrolled in the Founders And Coders bootcamp. My focus is on honing my skills in JavaScript, HTML, CSS, Node.js and more to build awesome web applications.
 
 ## 🚀 Skills
 
