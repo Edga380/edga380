@@ -6,7 +6,7 @@
 
 <img src="https://github.com/Edga380/edga380/blob/main/assets/codeguybg.png" alt="Guy sitting in front of the computer" width="100%"/>
 
-I'm a software developer currently enrolled in the Founders And Coders bootcamp. My focus is on honing my skills in JavaScript, HTML, CSS, Node.js, and more to build awesome web applications.
+A passionate and dedicated software developer, I possess the skills and knowledge required to ensure the success of your projects. My focus lies in refining my expertise in JavaScript, HTML, CSS, Node.js, and other technologies to craft exceptional web applications.
 
 ## 🚀 Skills
 
@@ -15,10 +15,11 @@ I'm a software developer currently enrolled in the Founders And Coders bootcamp.
   <img src="https://cdn-icons-png.flaticon.com/128/11039/11039805.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/10260/10260532.png" alt="HTML" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/4726/4726005.png" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="Node.js" width="40" height="40"/>
   
 - **Currently Learning:**
   
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/753/753244.png" alt="React" width="40" height="40"/>
   
 - **Other Skills:**
   
@@ -29,7 +30,7 @@ I'm a software developer currently enrolled in the Founders And Coders bootcamp.
 
 ## 🌱 Learning Journey
 
-I'm on a journey to become a well-rounded developer, and my current focus is on mastering Node.js to expand my backend development skills. I love the challenge of building scalable and efficient applications.
+I'm on a journey to become a well-rounded developer, and my current focus is on React to expand my development skills. I love the challenge of building scalable and efficient applications.
 
 ## 💻 Projects
 
