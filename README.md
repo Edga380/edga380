@@ -10,7 +10,7 @@ A passionate and dedicated software developer, I possess the skills and knowledg
 
 ## 🚀 Skills
 
-- **Languages:**
+- **Key Skills:**
   
   <img src="https://cdn-icons-png.flaticon.com/128/11039/11039805.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/10260/10260532.png" alt="HTML" width="40" height="40"/>
