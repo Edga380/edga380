@@ -1,5 +1,5 @@
 <div align="center"><h1>Hi there! 👋 My name is Edgaras</h1></div>
-<div align="center"><h2>I am a dedicated software developer</h2></div>
+<div align="center"><h2>Software developer</h2></div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/edgaras-aleliunas/" target="_blank" rel="noopener noreferrer">
